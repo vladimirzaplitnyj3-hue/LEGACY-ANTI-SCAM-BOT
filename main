@@ -10,7 +10,7 @@ from pyrogram import Client, filters
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton, CallbackQuery, ChatPermissions
 from pyrogram.errors import PeerIdInvalid, UsernameInvalid, UserNotParticipant, ChatAdminRequired, MessageNotModified
 
-BOT_TOKEN = "8371079711:AAEibNv9L7j7W9noxOmj6bTFPDBOfQdBeek" 
+BOT_TOKEN = "8481699984:AAHAkeGaHjtX3WBZmkNcwjusQ1kqlmMvlko" 
 API_ID = 23258474
 API_HASH = "f5dd3f52675030a650ca2259f9fb79ce"
 
